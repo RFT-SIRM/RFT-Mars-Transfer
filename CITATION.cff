@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "RFT-Mars-Transfer"
+type: software
+version: "0.1.0"
+date-released: "2026-09-30"
+authors:
+  - family-names: "Research Program"
+    given-names: "RFT-SIRM"
+license: "Proprietary"
+repository-code: "https://github.com/RFT-SIRM/RFT-Mars-Transfer"

@@ -1,0 +1,17 @@
+{
+  "mission": "RFT-Mars-Transfer",
+  "mass_kg": 50000,
+  "distance_km": 55000000,
+  "a_g": 1.0,
+  "one_way_hours": 41.60528505193368,
+  "round_trip_hours": 83.21057010386735,
+  "vmax_km_s": 734.4152435781817,
+  "beta": 0.0024497455622388663,
+  "gamma": 1.0000030006401657,
+  "thrust_kN": 490.3325,
+  "peak_power_GW": 360.10766242179875,
+  "kinetic_energy_MWh_one_accel": 3745595.486111111,
+  "battery_MWh": 18.0,
+  "round_trip_ideal_kinetic_MWh": 14982381.944444444,
+  "round_trip_battery_energy_ratio": 832354.5524691357
+}
